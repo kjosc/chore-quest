@@ -47,7 +47,7 @@ const STREAKS = [
 ];
 
 // EDIT THESE: replace with your kids' actual names
-const KIDS = ['Kid 1', 'Kid 2', 'Kid 3'];
+const KIDS = ['Calvin', 'Olivia', 'Maverick'];
 
 // ---------- Hand-drawn SVG icons ----------
 const stroke = { stroke: '#1a1a1a', strokeWidth: 2.2, strokeLinecap: 'round', strokeLinejoin: 'round', fill: 'none' };
